@@ -1,0 +1,134 @@
+@media screen and (max-width:1310px){
+.first_half {
+	width: 100%;
+	float: none;
+
+	}
+.second_half {
+	width: 100%;
+	float: none;
+	margin-top:20px;
+	margin-left: 0px;	
+	}
+
+.message label {
+
+    top: 70px;	
+}
+
+}
+@media screen and ( max-width:980px){
+.nav{
+	display:none;
+}
+.nav ul{
+	text-align:center;
+}
+.nav ul li{
+display: block;
+width: 200px;
+
+}
+.mobile_menu_icon{
+	display:block;
+	float:right;
+	color:#fff;
+	font-size:30px;
+	cursor: pointer;
+
+}
+.container{
+		width:95%;
+		margin:auto;
+}
+.single_team_box svg {
+    width: 10px !important;
+    height: 10px;
+}
+.testimonial_img img {
+    width: 80px;
+    height: 80px;
+   
+}
+
+footer ul li a {
+    font-size: 12px;
+    line-height: 2;
+}
+
+}
+@media screen and (max-width:800px){
+.service_box {
+		width: 45%;
+		}
+		
+.single_team_box {
+		width:  45%;
+		margin-top: 30px;
+		}	
+
+.team_boxs{
+	margin-top:50px;
+}
+.single_skills_box {
+		width: 45%;		
+}
+}
+@media screen and (max-width:660px){
+	.single_testimonial_box {
+		width: 100%;
+	}
+	.testimonial_img {
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+	.testimonial_content {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin-top: 15px;
+	}
+	.single_postfolio_box h2 {
+
+		font-size: 15px;
+}
+}
+@media screen and (max-width:480px){
+	.header_content h2 {
+
+		font-size: 25px;
+	}
+	.brown-btn {
+		width: 240px;
+		padding: 16px;
+	}
+	.service_box {
+		width: 100%;
+		float: none;
+	}
+
+	.single_team_box {
+		width: 100%;
+		float: none;
+		margin-top: 50px;
+	}
+	.social_links {
+		margin-top: 15px;
+	}
+	.single_skills_box {
+		width: 100%;
+		float: none;
+	}
+	.single_postfolio_box {
+		width: 100%;
+		float: none;
+		
+	}
+}
+@media screen and (max-width:360px){
+	.brown-btn {
+		width: 180px;
+	
+	}
+}
